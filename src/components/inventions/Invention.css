@@ -10,16 +10,22 @@
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
+.light{
+    border-top: 1px solid rgba(0,0,0,.05)!important; 
+}
+
 
 
 .container {
     padding: 2px 16px;
-    height: 85px;
     text-align: left;
 }
+
+
 
 .avatar{
 	width:60px;
     float:left; 
     margin-right:10px;
+    margin-top: 10px;
 }
